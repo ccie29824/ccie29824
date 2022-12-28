@@ -67,7 +67,8 @@
 
 ### :zap: Github Stats
 
- <img align="left" alt="navilg's Github Stats" src="https://github-readme-stats.navilg.vercel.app/api?username=navilg&show_icons=true&hide_border=true&count_private=true" />
+ <img align="left" alt="
+ lg's Github Stats" src="https://github-readme-stats.ccie29824.vercel.app/api?username=ccie29824&show_icons=true&hide_border=true&count_private=true" />
 
 </br>
 </br>
@@ -79,7 +80,7 @@
 </br>
 </br>
 
-<img align="left" alt="navilg's top languages" src="https://github-language-stats-psi.vercel.app/api/top-langs?username=navilg&count=5&fork=false" />
+<img align="left" alt="ccie29824's top languages" src="https://github-language-stats-psi.vercel.app/api/top-langs?username=ccie29824&count=5&fork=false" />
 
 </br>
 </br>
@@ -104,10 +105,10 @@
 <!--
 ### :zap: Languages Used:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=navilg&layout=compact)](https://github.com/navilg/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccie29824&layout=compact)](https://github.com/ccie29824/github-readme-stats)
 -->
 
-[website]: https://github.com/navilg
-[twitter]: https://twitter.com/navratan_gupta
-[medium]: https://medium.com/linux-shots
-[linkedin]: https://in.linkedin.com/in/navratan-gupta
+[website]: https://github.com/ccie29824
+[twitter]: https://twitter.com/ccie29824
+[medium]: https://medium.com/rachitgg
+[linkedin]: https://in.linkedin.com/in/ccie29824
