@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=S4U.IN&style=for-the-badge&url=http://s4u.in)](http://s4u.in)
 [![LinkedIn](https://img.shields.io/badge/Connect%20me-%230077B5.svg?&color=grey&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 <!--[![LinkedIn](https://img.shields.io/badge/Connect%20me-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white")][linkedin]-->
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/navratan_gupta?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnavilg&screen_name=navratan_gupta) -->
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/ccie29824?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fccie29824&screen_name=ccie29824) -->
 
 ## I'm a DevOps Engineer, Developer and a Linux Enthusiast !
 
@@ -22,10 +22,10 @@
 
 [<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img align="left" alt="Linux Shots | Medium Tech Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/medium.svg" />][Medium]
-[<img align="left" alt="Navratan Gupta | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Navratan Gupta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Rachit Gupta | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Rachit Gupta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/linkedin.svg" />][linkedin]
 
-[comment]: <> ([<img align="left" alt="Navratan Gupta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/instagram.svg" />][instagram])
+[comment]: <> ([<img align="left" alt="Rachit Gupta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/instagram.svg" />][instagram])
 
 <br />
 
