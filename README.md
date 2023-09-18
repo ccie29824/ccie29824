@@ -13,11 +13,7 @@
 - 🌱 I’m currently learning AWS DevOps.
 - 👯 I’m looking to contribute in Open Source projects.
 - :zap: I love teaching, travelling, binge-coding and watching movies.
-- 🥅 2022 Goals: Learn Golang and Get certified as AWS Certified DevOps Engineer - Professional.
-<!--
-[comment]: <> (- ⚡ Fun fact: I love to sing and read books)
-[comment]: <> (- 🥅 2020 Goals: Learn new programming & speaking language. )
--->
+- 🥅 2023 Goals: CCIE DevNet.
 
 ### :handshake: Connect with me:
 
@@ -25,9 +21,6 @@
 [<img align="left" alt="Linux Shots | Medium Tech Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/medium.svg" />][Medium]
 [<img align="left" alt="Rachit Gupta | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Rachit Gupta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/linkedin.svg" />][linkedin]
-
-[comment]: <> ([<img align="left" alt="Rachit Gupta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.0.0/icons/instagram.svg" />][instagram])
-
 <br />
 
 ### :1st_place_medal: Certifications and Badges
