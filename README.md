@@ -66,10 +66,7 @@
 
 ### 🕮 RACHIT GUPTA CCIE X3 29824
 <div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ccie29824&show_icons=true&locale=en&layout=compact" alt="ccie29824" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ccie29824&" alt="ccie29824" />
-  <img src="https://github.com/ccie29824/Resources/blob/main/grid-snake.svg"
-       alt="snake" /></a>
+  <img src="https://github.com/ccie29824/Resources/blob/main/grid-snake.svg" alt="snake" /></a>
 </div>
 
 </br>
