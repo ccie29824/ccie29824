@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=S4U.IN&style=for-the-badge&url=https://s4u.in)](https://s4u.in)
 [![LinkedIn](https://img.shields.io/badge/Connect%20me-%230077B5.svg?&color=grey&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 <!--[![LinkedIn](https://img.shields.io/badge/Connect%20me-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white")][linkedin]-->
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/ccie29824?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fccie29824&screen_name=ccie29824) -->
+<!--[![Twitter Follow](https://img.shields.io/twitter/follow/ccie29824?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fccie29824&screen_name=ccie29824)-->
 
 ## I'm a Network Architect, I LOVE programmability !
 
