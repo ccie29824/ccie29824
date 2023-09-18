@@ -62,13 +62,9 @@
 </br>
 <img align="left" alt="ccie29824's top languages" src="https://github-language-stats-psi.vercel.app/api/top-langs?username=ccie29824&count=5&fork=false" />
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ccie29824&" alt="ccie29824" />
-<br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br />
 
 ### 🕮 RACHIT GUPTA CCIE X3 29824
-<img src="https://github.com/ccie29824/Resources/blob/main/grid-snake.svg" alt="snake" /></a>
-
-
-</br>
 </br>
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rachitg)
