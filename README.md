@@ -58,11 +58,10 @@
 <br />
 
 ### :zap: Github Stats
- <img align="left" alt="
- lg's Github Stats" src="https://github-readme-stats.ccie29824.vercel.app/api?username=ccie29824&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="lg's Github Stats" src="https://github-readme-stats.ccie29824.vercel.app/api?username=ccie29824&show_icons=true&hide_border=true&count_private=true" />
 </br>
 <img align="left" alt="ccie29824's top languages" src="https://github-language-stats-psi.vercel.app/api/top-langs?username=ccie29824&count=5&fork=false" />
-<br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br />
 
 ### 🕮 RACHIT GUPTA CCIE X3 29824
 <div>
