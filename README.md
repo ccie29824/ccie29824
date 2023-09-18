@@ -65,9 +65,8 @@
 <br /><br /><br /><br /><br /><br /><br />
 
 ### 🕮 RACHIT GUPTA CCIE X3 29824
-<div>
-  <img src="https://github.com/ccie29824/Resources/blob/main/grid-snake.svg" alt="snake" /></a>
-</div>
+<img src="https://github.com/ccie29824/Resources/blob/main/grid-snake.svg" alt="snake" /></a>
+
 
 </br>
 </br>
