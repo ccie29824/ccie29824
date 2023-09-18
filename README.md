@@ -69,12 +69,6 @@
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rachitg)
 
-<!--
-### :zap: Languages Used:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ccie29824&layout=compact)](https://github.com/ccie29824/github-readme-stats)
--->
-
 [website]: https://github.com/ccie29824
 [twitter]: https://twitter.com/ccie29824
 [medium]: https://medium.com/rachitgg
